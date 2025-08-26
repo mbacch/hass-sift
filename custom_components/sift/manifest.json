@@ -2,7 +2,7 @@
   "domain": "sift",
   "name": "Sift",
   "version": "0.1.0",
-  "documentation": "https://example.com", 
+  "documentation": "https://github.com/mbacch/hass-sift/", 
   "codeowners": ["@mbacch"],
   "requirements": []
 }
