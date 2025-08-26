@@ -1,0 +1,8 @@
+{
+  "domain": "sift",
+  "name": "Sift",
+  "version": "0.1.0",
+  "documentation": "https://example.com", 
+  "codeowners": ["@mbacch"],
+  "requirements": []
+}
