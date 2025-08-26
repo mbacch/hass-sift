@@ -10,7 +10,7 @@ Once the custom component is installed in the correct directory, add the followi
 
 ```yaml
 sift:
-  api_uri: https://api.siftstack.com/api/v2/ingest
+  api_uri: https://<uri>/api/v2/ingest
   api_key: <token>
   asset: my_hass_asset_name
 ```
@@ -19,7 +19,7 @@ Users can also filter what data is ingested into Sift. For example:
 
 ```yaml
 sift:
-  api_uri: https://api.siftstack.com/api/v2/ingest
+  api_uri: https://<uri>/api/v2/ingest
   api_key: <token>
   asset: my_hass_asset_name
   filter:
